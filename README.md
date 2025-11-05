@@ -94,6 +94,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+<img width="642" height="114" alt="Screenshot 2025-11-05 112825" src="https://github.com/user-attachments/assets/9e715b0d-8066-4b39-953f-b36946054a96" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -108,6 +109,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="703" height="275" alt="Screenshot 2025-11-05 113015" src="https://github.com/user-attachments/assets/b27c96a9-590a-45eb-8eb3-2c8ab372658c" />
 
 
 
@@ -118,6 +120,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="533" height="260" alt="Screenshot 2025-11-05 113108" src="https://github.com/user-attachments/assets/e9144891-4cf2-4c59-943f-fb8206f38ff4" />
 
 
 
@@ -131,6 +134,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+<img width="520" height="89" alt="Screenshot 2025-11-05 113139" src="https://github.com/user-attachments/assets/286e9762-4f67-4aa4-b4c5-df953bfc23cf" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -141,6 +145,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="500" height="184" alt="Screenshot 2025-11-05 113207" src="https://github.com/user-attachments/assets/47c7c1fe-077a-46bc-80d5-fc96ff8dc8ee" />
 
 
 # RESULT:

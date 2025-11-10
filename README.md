@@ -83,12 +83,12 @@ List out the file hello1.txt in the current directory
 
 List out all the associated file extensions 
 
+fc hello.txt Rose.txt
 
 
-## COMMAND AND OUTPUT
+<img width="581" height="243" alt="Screenshot 2025-11-10 052758" src="https://github.com/user-attachments/assets/43489302-50eb-4fa7-9da1-9299713ca052" />
 
 
-Compare the file hello.txt and rose.txt
 
 
 
@@ -98,10 +98,9 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
-
-
 ## OUTPUT
+
+<img width="465" height="143" alt="Screenshot 2025-11-10 053719" src="https://github.com/user-attachments/assets/0db01942-9937-415a-ac5d-2bf3802dd3bc" />
 
 
 
@@ -117,6 +116,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="615" height="348" alt="Screenshot 2025-11-10 053730" src="https://github.com/user-attachments/assets/765660ed-f5e8-4b17-8660-2354c4404863" />
 
 
 
@@ -126,6 +126,9 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+
+
+<img width="482" height="247" alt="Screenshot 2025-11-10 053738" src="https://github.com/user-attachments/assets/e5aee7ee-d64e-4ed4-a3fc-9b0acf46abcf" />
 
 
 
@@ -141,6 +144,10 @@ Expected Output (if the file exists):
 ## OUTPUT
 
 
+<img width="743" height="283" alt="Screenshot 2025-11-10 053757" src="https://github.com/user-attachments/assets/f485b3c7-db4c-46eb-b69c-1096a752a260" />
+
+
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
@@ -150,6 +157,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="451" height="414" alt="Screenshot 2025-11-10 053805" src="https://github.com/user-attachments/assets/19e2bc35-9aa5-4fca-9d40-b10638d2f685" />
 
 
 # RESULT:

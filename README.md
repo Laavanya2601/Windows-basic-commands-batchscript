@@ -23,56 +23,66 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-<img width="621" height="125" alt="Screenshot 2025-11-03 114229" src="https://github.com/user-attachments/assets/7705340c-af9f-4d1e-8d42-853d863e84d0" />
-
+<img width="511" height="73" alt="Screenshot 2025-11-10 052603" src="https://github.com/user-attachments/assets/37c8d4d1-bf14-426d-bfd5-cbb36823859e" />
 
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
-<img width="670" height="133" alt="Screenshot 2025-11-03 114305" src="https://github.com/user-attachments/assets/f2d7d5c8-c690-44a7-8859-7a1ecb378f6e" />
 
+<img width="509" height="72" alt="Screenshot 2025-11-10 052617" src="https://github.com/user-attachments/assets/dda730a8-3d0b-4e1f-81f2-5beecfe91350" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+COPY CON Rose.txt
+A clock in a office can never get stolen
+Too many employees watch it all the time
+^Z
+1 file(s) copied
+dir Rose.txt
 
+<img width="762" height="356" alt="Screenshot 2025-11-10 052647" src="https://github.com/user-attachments/assets/b6b8bb34-1bc8-47ad-a648-88b00b6d65ad" />
 
 
 ## COMMAND AND OUTPUT
+echo “hello world” > hello.txt
+type hello.txt
 
 
 Create the file hello.txt using echo and redirection
 
-<img width="848" height="66" alt="Screenshot 2025-11-03 114359" src="https://github.com/user-attachments/assets/4b532ede-52cc-4321-b66e-8c9db08bf045" />
+<img width="671" height="115" alt="Screenshot 2025-11-10 052706" src="https://github.com/user-attachments/assets/229e1832-3883-4a3c-a545-d6fee363a291" />
 
 
 ## COMMAND AND OUTPUT
-
+copy hello.txt hello1.txt
 Copy the file hello.txt into the file hello1.txt
-<img width="723" height="166" alt="Screenshot 2025-11-03 114422" src="https://github.com/user-attachments/assets/44b7141f-4870-44bc-8c7d-56dca2dd5cc4" />
 
+<img width="599" height="159" alt="Screenshot 2025-11-10 052727" src="https://github.com/user-attachments/assets/fb78dc7d-90e5-423e-9275-f2bb15dfc487" />
 
 ## COMMAND AND OUTPUT
+del hello1.txt
+dir hello1.txt
 
 Remove the file hello1.txt
+<img width="528" height="196" alt="Screenshot 2025-11-10 052736" src="https://github.com/user-attachments/assets/2fdc8f8b-6a91-412f-a5db-35a921dbafa8" />
 
-<img width="753" height="115" alt="Screenshot 2025-11-03 114444" src="https://github.com/user-attachments/assets/b0dbd160-0274-4fdc-a182-5c851917291a" />
 
 
 ## COMMAND AND OUTPUT
+assoc | more
 
 List out the file hello1.txt in the current directory
 
-<img width="612" height="200" alt="Screenshot 2025-11-03 114508" src="https://github.com/user-attachments/assets/faf9d294-3156-4714-b56b-051fc6dcac50" />
+<img width="494" height="379" alt="Screenshot 2025-11-10 052747" src="https://github.com/user-attachments/assets/9a0c0d49-491d-4491-b3e3-1edd7eddd343" />
 
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
-<img width="639" height="1053" alt="Screenshot 2025-11-03 114543" src="https://github.com/user-attachments/assets/051f748f-26ae-42f7-98b5-8733da356bb4" />
 
 
 ## COMMAND AND OUTPUT
@@ -80,7 +90,6 @@ List out all the associated file extensions
 
 Compare the file hello.txt and rose.txt
 
-<img width="663" height="168" alt="Screenshot 2025-11-03 114605" src="https://github.com/user-attachments/assets/9cce9790-921d-47a9-94b5-d90e52b7f443" />
 
 
 ## COMMAND AND OUTPUT
@@ -94,7 +103,6 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
-<img width="642" height="114" alt="Screenshot 2025-11-05 112825" src="https://github.com/user-attachments/assets/9e715b0d-8066-4b39-953f-b36946054a96" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -109,7 +117,6 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-<img width="703" height="275" alt="Screenshot 2025-11-05 113015" src="https://github.com/user-attachments/assets/b27c96a9-590a-45eb-8eb3-2c8ab372658c" />
 
 
 
@@ -120,7 +127,6 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-<img width="533" height="260" alt="Screenshot 2025-11-05 113108" src="https://github.com/user-attachments/assets/e9144891-4cf2-4c59-943f-fb8206f38ff4" />
 
 
 
@@ -134,7 +140,6 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
-<img width="520" height="89" alt="Screenshot 2025-11-05 113139" src="https://github.com/user-attachments/assets/286e9762-4f67-4aa4-b4c5-df953bfc23cf" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -145,7 +150,6 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-<img width="500" height="184" alt="Screenshot 2025-11-05 113207" src="https://github.com/user-attachments/assets/47c7c1fe-077a-46bc-80d5-fc96ff8dc8ee" />
 
 
 # RESULT:
